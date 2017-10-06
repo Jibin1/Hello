@@ -20,6 +20,7 @@ public:
     void delNode(int delData);
     void printList();
     void removeLast();
+    void enterFirst(int addData);
     ~List();
 
 };
